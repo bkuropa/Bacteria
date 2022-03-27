@@ -7,7 +7,7 @@ https://bkuropa.github.io/Bacteria/
 
 
 ### Stomach bacteria background image:
-Norris, J.; Do Gut Bacteria Rule Our Minds?, Aug. 15, 2014, 
+Norris, J.; Do Gut Bacteria Rule Our Minds?, University of California, San Francisco, Aug. 15, 2014, 
 URL: https://www.ucsf.edu/news/2014/08/116526/do-gut-bacteria-rule-our-minds
 
 ### Jekyll Themes
