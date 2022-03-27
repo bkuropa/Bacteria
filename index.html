@@ -10,10 +10,10 @@
 </head>
 
 <body>
-
+  <div style="background-image: url('Images/gutheader.jpg'); background-size:cover;">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center">
+      <div class="col-md-12 jumbotron text-center" style="background-color:#fad6f6">
         <h1>Belly Button Biodiversity Dashboard</h1>
         <p>Use the interactive charts below to explore the dataset</p>
       </div>
@@ -32,15 +32,15 @@
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5", style="border:black; border-width:4px; border-style:solid;">
         <div id="bar"></div>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5", style="border:black; border-width:4px; border-style:solid;">
         <div id="gauge"></div>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12", style="border:black; border-width:4px; border-style:solid;">
         <div id="bubble"></div>
       </div>
     </div>
@@ -49,7 +49,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="plots.js"></script>
-
+</div>
 </body>
 
 </html>
